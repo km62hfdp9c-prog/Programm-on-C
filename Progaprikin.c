@@ -4,3 +4,4 @@ int main(void) {
     puts("Privet!");
     return 0;
 }
+ываыва
