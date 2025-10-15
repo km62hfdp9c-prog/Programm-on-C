@@ -7,3 +7,4 @@ int main(void) {
 ываыва
 sdfsadf
 milaasd
+koperfild blyat
